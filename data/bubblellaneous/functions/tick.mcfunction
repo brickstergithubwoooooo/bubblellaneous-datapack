@@ -1,0 +1,2 @@
+execute as @e[type=item_frame, tag=buln.placer, limit=8] at @s align xyz positioned ~.5 ~ ~.5 run function bubblellaneous:block/abstract/placer/instance
+execute as @e[type=minecraft:armor_stand, tag=buln.block, tag=buln.in_bubble] at @s run function bubblellaneous:block/abstract/instance

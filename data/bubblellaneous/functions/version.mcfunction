@@ -1,0 +1,1 @@
+scoreboard players set $Root.Version bubblellaneous 100

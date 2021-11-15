@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:sweet_berries", Count:1b, tag:{CustomModelData:85220, Tags:["buln.food"], Bubblellaneous:{FoodValue:2b}, display:{Name:'{"translate":"item.bubblellaneous.garlic_bread", "italic":false, "color":"white"}'}}}}
