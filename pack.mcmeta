@@ -1,6 +1,30 @@
 {
     "pack": {
         "pack_format": 7,
-        "description": ""
+        "description": [
+            {
+                "text": "Bubblellaneous v1.0a",
+                "color": "#f4b64b"
+            },
+            {
+                "text": "\nby BubbleFish",
+                "color": "#b64bf4"
+            },
+            {
+                "text": " ",
+                "bold": true
+            },
+            {
+                "text": "       | 1.17.X",
+                "color": "#9aa3a5"
+            }
+        ],
+        "metadata": {
+            "authors": {
+                "BubbleF1sh": "24c8f8f8-9db3-4878-b8ea-530dbe583196"
+            },
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+            "pack_page": "https://www.planetminecraft.com/data-pack/bubblellaneous"
+        }
     }
 }

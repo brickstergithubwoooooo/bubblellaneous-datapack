@@ -13,6 +13,9 @@ execute if score @s buln.data1 matches 2.. run item replace block ~ ~ ~ containe
 
 
 execute if score @s buln.data0 matches 0 store result score $GUI.Length bubblellaneous run data get storage bubblellaneous:crafting Furniture
+execute if score @s buln.data0 matches 1 store result score $GUI.Length bubblellaneous run data get storage bubblellaneous:crafting Security
+execute if score @s buln.data0 matches 2 store result score $GUI.Length bubblellaneous run data get storage bubblellaneous:crafting Miscellaneous
+execute if score @s buln.data0 matches 3 store result score $GUI.Length bubblellaneous run data get storage bubblellaneous:crafting Food
 scoreboard players operation $GUI.Page bubblellaneous = @s buln.data1
 scoreboard players operation $GUI.Page bubblellaneous *= 21 bubblellaneous
 scoreboard players operation $GUI.Length bubblellaneous -= $GUI.Page bubblellaneous
