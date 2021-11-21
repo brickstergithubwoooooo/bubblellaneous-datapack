@@ -8,3 +8,4 @@ setblock ~ ~1 ~ petrified_oak_slab[type=bottom]
 scoreboard players set $Score buln.registry 0
 function bubblellaneous:block/abstract/registry
 scoreboard players operation @e[type=armor_stand, tag=buln.block, tag=buln.notset, limit=1] buln.registry = $Score buln.registry
+tag @e[type=armor_stand, tag=buln.block, tag=buln.notset, limit=1] remove buln.notset

@@ -1,5 +1,4 @@
 scoreboard objectives remove bubblellaneous
-scoreboard objectives remove buln.registry
 scoreboard objectives remove buln.data0
 scoreboard objectives remove buln.data1
 scoreboard objectives remove buln.data2
