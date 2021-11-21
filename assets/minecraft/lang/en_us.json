@@ -227,5 +227,11 @@
     "description.bubblellaneous.item_reader1"       : "Saves NBT Data (custom items, names, etc.)",
     "description.bubblellaneous.padlock0"           : "Locks any door. Requires key to lock/open",
     "description.bubblellaneous.padlock1"           : "Will disappear when the right key is used",
-    "description.bubblellaneous.key"                : "Used for a padlock"
+    "description.bubblellaneous.key"                : "Used for a padlock",
+    "description.bubblellaneous.beartrap0"          : "Catches a player inside",
+    "description.bubblellaneous.beartrap1"          : "Hold this item to break other bear traps",
+    "description.bubblellaneous.cctv_camera"        : "Use %s to interact",
+    "description.bubblellaneous.camera_monitor"     : "%s to open",
+    "description.bubblellaneous.monitor"            : "Click %s to switch channels",
+    "description.bubblellaneous.umbrella"           : "Hold %s to get slow falling"
 }

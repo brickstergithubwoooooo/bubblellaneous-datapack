@@ -227,5 +227,11 @@
     "description.bubblellaneous.item_reader1"       : "Сохраняет NBT Данные (собственные предметы, имена, и т. д.)",
     "description.bubblellaneous.padlock0"           : "Запирает любую дверь. Трубется ключ чтобы запереть/отпереть",
     "description.bubblellaneous.padlock1"           : "Исчезнет как только правильный ключ был использован",
-    "description.bubblellaneous.key"                : "Используется для нависного замка"
+    "description.bubblellaneous.key"                : "Используется для нависного замка",
+    "description.bubblellaneous.beartrap0"          : "Ловит игрока внутри",
+    "description.bubblellaneous.beartrap1"          : "Держите этот предмет чтобы сломать другие капканы",
+    "description.bubblellaneous.cctv_camera"        : "Используйте %s чтобы взаимодействовать",
+    "description.bubblellaneous.camera_monitor"     : "%s чтобы открыть",
+    "description.bubblellaneous.monitor"            : "Нажмите %s чтобы сменить канал",
+    "description.bubblellaneous.umbrella"           : "Задерживайте %s для медленного падения"
 }

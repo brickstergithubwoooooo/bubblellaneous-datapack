@@ -1,6 +1,7 @@
 #  Facing
 execute if entity @s[tag=-buln.towards.none] run scoreboard players set $Towards bubblellaneous 1
 execute if entity @s[tag=-buln.towards.player] run function bubblellaneous:block/abstract/placer/towards/player
+execute if entity @s[tag=-buln.towards.floor] run function bubblellaneous:block/abstract/placer/towards/floor
 execute if entity @s[tag=-buln.towards.wall] run function bubblellaneous:block/abstract/placer/towards/wall
 
 
